@@ -13,9 +13,9 @@ body {
   color: white;
 }
 
-/* 🔴 CSS Property name Error here 👇 */
+/* 🔴 CSS Property name Error --resolved-- 👇 */
 body {
-  background-colo: #030a1e;
+  background-color: #030a1e;
 }
 
 .content {
